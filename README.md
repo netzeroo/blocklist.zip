@@ -1,6 +1,6 @@
 # Blocklist.zip
 
-Blocklist.zip is a project that provides a collection of blocklists for various purposes. We are currently providing .zip targets that are updated regularly for your own inclusion but will try to have more proactive or useful lists.
+Blocklist.zip is a project that provides a collection of blocklists for various purposes. We are currently providing .zip targets that are updated regularly for your own inclusion but will try to have more proactive or useful lists. We have included .mov as well for now.
 
 If you find this useful or find it funny that Google likes to make our lives harder donate to 0x9f660b31716abe169ff181d6d9ca723882746e37 or passkeys.wallet. 
 
